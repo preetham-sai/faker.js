@@ -1,5 +1,14 @@
 # faker.js - generate massive amounts of fake data in the browser and node.js
-preetham
+MY TEAM  
+ravi,
+jhon,
+vamsi,   
+preetham.
+
+MY CONTRIBUTION 
+
+movie 
+
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
 
